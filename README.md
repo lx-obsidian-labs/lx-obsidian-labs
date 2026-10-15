@@ -2,7 +2,7 @@
 
 I build and ship web, mobile and AI products end-to-end — TypeScript/Next.js frontends, Node & Python backends, and Android apps.
 
-- 📍 Eswatini · Open to remote & relocation
+- 📍 Middelburg, South Africa · Open to remote & relocation
 - 🌐 Portfolio: https://lxobsidianportal.co.za
 - 📫 vilanenathan@gmail.com
 
