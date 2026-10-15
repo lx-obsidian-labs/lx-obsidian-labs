@@ -1,16 +1,23 @@
-## Hi there 👋
+# Nathan Vilane — Full-Stack Software Developer
 
-<!--
-**lx-obsidian-labs/lx-obsidian-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and ship web, mobile and AI products end-to-end — TypeScript/Next.js frontends, Node & Python backends, and Android apps.
 
-Here are some ideas to get you started:
+- 📍 Eswatini · Open to remote & relocation
+- 🌐 Portfolio: https://lxobsidianportal.co.za
+- 📫 vilanenathan@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+- **Frontend:** TypeScript, React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Python, REST APIs, PostgreSQL
+- **Mobile:** Kotlin / Java, Android
+- **Tooling:** Docker, Git, CI
+
+## Selected work
+- **[revona-cli](https://github.com/lx-obsidian-labs/revona-cli)** — autonomous AI engineering platform (Python)
+- **[lx-obsidian-portal](https://github.com/lx-obsidian-labs/lx-obsidian-portal)** — full-stack dashboard platform
+- **[nexus-ai](https://github.com/lx-obsidian-labs/nexus-ai)** — all-in-one AI platform
+- **[e-learning-platform](https://github.com/lx-obsidian-labs/e-learning-platform)** — e-learning platform (MIT)
+- **[incognito-party](https://github.com/lx-obsidian-labs/incognito-party)** — anonymous social PWA with tipping
+
+## Currently
+Building **LX Obsidian Labs** products and looking for a full-stack / Android role.
