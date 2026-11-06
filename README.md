@@ -1,23 +1,44 @@
-# Nathan Vilane — Full-Stack Software Developer
+# Nathan Vilane | Software Engineer & Founder, LX Obsidian Labs
 
-I build and ship web, mobile and AI products end-to-end — TypeScript/Next.js frontends, Node & Python backends, and Android apps.
+**Full-stack development · Android engineering · Python · AI-assisted automation**
 
-- 📍 Middelburg, South Africa · Open to remote & relocation
-- 🌐 Portfolio: https://lxobsidianportal.co.za
-- 📫 vilanenathan@gmail.com
+I design, build and maintain software across web, mobile and developer-tooling environments. Through **LX Obsidian Labs**, I work on product development, user-facing interfaces, backend integrations and deployment workflows.
 
-## Stack
-- **Frontend:** TypeScript, React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Python, REST APIs, PostgreSQL
-- **Mobile:** Kotlin / Java, Android
-- **Tooling:** Docker, Git, CI
+**Open to international remote software engineering opportunities and relocation discussions.**
 
-## Selected work
-- **[revona-cli](https://github.com/lx-obsidian-labs/revona-cli)** — autonomous AI engineering platform (Python)
-- **[lx-obsidian-portal](https://github.com/lx-obsidian-labs/lx-obsidian-portal)** — full-stack dashboard platform
-- **[nexus-ai](https://github.com/lx-obsidian-labs/nexus-ai)** — all-in-one AI platform
-- **[e-learning-platform](https://github.com/lx-obsidian-labs/e-learning-platform)** — e-learning platform (MIT)
-- **[incognito-party](https://github.com/lx-obsidian-labs/incognito-party)** — anonymous social PWA with tipping
+- **Portfolio:** https://www.lxobsidianportal.co.za
+- **Contact:** vilanenathan@gmail.com
+- **GitHub:** https://github.com/lx-obsidian-labs
 
-## Currently
-Building **LX Obsidian Labs** products and looking for a full-stack / Android role.
+## Engineering focus
+
+| Area | Technologies and practices |
+| --- | --- |
+| Web | TypeScript, JavaScript, React, Next.js, HTML/CSS |
+| Mobile | Android, Kotlin, Flutter |
+| Backend and automation | Python, REST API integration, AI-assisted workflows |
+| Delivery | Git, GitHub, deployment, debugging, documentation |
+
+## Explore the work
+
+The repositories below illustrate different areas of work. **Documentation and implementation maturity vary; inspect each project's source, license and status before evaluating it.**
+
+- **[LX Obsidian](https://github.com/lx-obsidian-labs/lx-obsidian)** — design-system guidance and static-analysis tooling across UI frameworks.
+- **[Edu Learn](https://github.com/lx-obsidian-labs/e-learning-platform)** — learning platform covering courses, adaptive review and learner experiences.
+- **[MMS Platform](https://github.com/lx-obsidian-labs/mms-platform)** — Next.js application; technical case study being prepared.
+- **[LX Obsidian Portal](https://github.com/lx-obsidian-labs/lx-obsidian-portal)** — company product and portfolio website.
+- **[Revona CLI](https://github.com/lx-obsidian-labs/revona-cli)** — developer automation project; setup and architecture documentation under review.
+
+## How I work
+
+I approach development from requirements and workflow design through implementation, integration, testing and iterative improvement. I use AI development tools where appropriate, while treating code review, security, correctness and delivery as engineering responsibilities.
+
+## For recruiters and collaborators
+
+I am interested in **Software Engineer, Full-Stack Developer, Android Developer, Python Developer and AI Automation Engineer** opportunities, including international remote teams.
+
+For a technical conversation, project walkthrough or interview, please reach out by email. Project ownership, third-party dependencies and deployment status should be assessed per repository.
+
+---
+
+*LX Obsidian Labs is the company and engineering portfolio of Nathan Vilane. This page is a curated introduction, not a claim that every listed repository is production-ready.*
