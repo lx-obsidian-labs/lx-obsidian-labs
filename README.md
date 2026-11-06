@@ -19,6 +19,12 @@ I design, build and maintain software across web, mobile and developer-tooling e
 | Backend and automation | Python, REST API integration, AI-assisted workflows |
 | Delivery | Git, GitHub, deployment, debugging, documentation |
 
+## How projects are evaluated
+
+**Development stage is not an engineering-quality score.** Prototype, Active Development, Beta and Production describe delivery maturity; they are not rankings. Incomplete planned features do not count as defects. Engineering evidence is assessed only against each project's explicitly implemented and claimed scope. Security flaws, regressions in implemented behavior and unsupported claims still matter.
+
+Each project should report **Stage** (maturity), **Verification** (passing checks, partially verified, or not verified) and **Next milestone** separately. Scores are provisional until supported by reproducible test results, code review and deployment evidence. See [portfolio evaluation rubric](PORTFOLIO_EVALUATION.md).
+
 ## Explore the work
 
 The repositories below illustrate different areas of work. **Documentation and implementation maturity vary; inspect each project's source, license and status before evaluating it.**
