@@ -35,6 +35,10 @@ The repositories below illustrate different areas of work. **Documentation and i
 - **[LX Obsidian Portal](https://github.com/lx-obsidian-labs/lx-obsidian-portal)** — company product and portfolio website.
 - **[Revona CLI](https://github.com/lx-obsidian-labs/revona-cli)** — developer automation project; setup and architecture documentation under review.
 
+## Evidence-first portfolio review
+
+The [engineering evidence register](ENGINEERING_EVIDENCE_REGISTER.md) links each selected repository to its tests, CI configuration and outstanding verification. **Configured checks are not automatically passing checks.** Each project's development stage is separate from its engineering assessment.
+
 ## How I work
 
 I approach development from requirements and workflow design through implementation, integration, testing and iterative improvement. I use AI development tools where appropriate, while treating code review, security, correctness and delivery as engineering responsibilities.
