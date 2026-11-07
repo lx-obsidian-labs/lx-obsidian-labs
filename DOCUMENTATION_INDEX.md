@@ -8,6 +8,7 @@ This index provides a single entry point for company engineering documentation. 
 
 | Document | Purpose |
 | --- | --- |
+| [Verified CI snapshot (2026-11-07)](CI_EVIDENCE_2026-11-07.md) | Actual GitHub Actions run links, conclusions and blockers |
 | [Case study template](CASE_STUDY_TEMPLATE.md) | Architecture, decisions, verification, outcomes and attribution |
 | [Documentation quality standard](DOCUMENTATION_QUALITY_STANDARD.md) | Weighted 9/10 rubric, minimum README contract and verification gates |
 | [Profile](README.md) | Curated introduction, project navigation and contact |
