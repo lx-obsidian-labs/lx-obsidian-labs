@@ -31,6 +31,16 @@ This index provides a single entry point for company engineering documentation. 
 | [LX Obsidian](https://github.com/lx-obsidian-labs/lx-obsidian) | [README](https://github.com/lx-obsidian-labs/lx-obsidian/blob/main/README.md) | Cross-framework detector and installation tests |
 | [Brand assets](https://github.com/lx-obsidian-labs/brand-assets) | [README](https://github.com/lx-obsidian-labs/brand-assets/blob/main/README.md) | Upload approved raster exports; confirm asset inventory |
 
+## Additional public projects documented
+
+| Project | Documentation | Verification focus |
+| --- | --- | --- |
+| [Nexus AI](https://github.com/lx-obsidian-labs/nexus-ai) | [README](https://github.com/lx-obsidian-labs/nexus-ai/blob/main/README.md) | Supabase permissions, implemented AI scope, build and lint |
+| [EC Tech Hub](https://github.com/lx-obsidian-labs/ec-tech-hub) | [README](https://github.com/lx-obsidian-labs/ec-tech-hub/blob/master/README.md) | Community workflows, Supabase permissions, build and lint |
+| [Synapse Social](https://github.com/lx-obsidian-labs/synapse-social) | [README](https://github.com/lx-obsidian-labs/synapse-social/blob/main/README.md) | Browser extension permissions, platform compliance, monorepo tests |
+| [Hookd](https://github.com/lx-obsidian-labs/hookd) | [README](https://github.com/lx-obsidian-labs/hookd/blob/master/README.md) | Nested web application tests and agent skill boundaries |
+| [All Things Store](https://github.com/lx-obsidian-labs/all-things-store) | [README](https://github.com/lx-obsidian-labs/all-things-store/blob/main/README.md) | Checkout, supplier integration and webhook authorization |
+
 ## Publication and verification rules
 
 1. Do not equate repository visibility with permission to publish client material.
