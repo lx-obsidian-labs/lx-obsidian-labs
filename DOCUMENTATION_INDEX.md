@@ -24,13 +24,13 @@ This index provides a single entry point for company engineering documentation. 
 
 | Project | Documentation | Remaining verification |
 | --- | --- | --- |
-| [LX Obsidian Portal](https://github.com/lx-obsidian-labs/lx-obsidian-portal) | [README](https://github.com/lx-obsidian-labs/lx-obsidian-portal/blob/master/README.md), [operations runbook](https://github.com/lx-obsidian-labs/lx-obsidian-portal/blob/master/docs/OPERATIONS_RUNBOOK.md) | CI, live lead persistence and notification delivery |
-| [Revona CLI](https://github.com/lx-obsidian-labs/revona-cli) | [README](https://github.com/lx-obsidian-labs/revona-cli/blob/main/README.md), [security model](https://github.com/lx-obsidian-labs/revona-cli/blob/main/docs/SECURITY_MODEL.md), [verification runbook](https://github.com/lx-obsidian-labs/revona-cli/blob/main/docs/VERIFICATION_RUNBOOK.md) | Default-branch CI, command and filesystem security |
+| [LX Obsidian Portal](https://github.com/lx-obsidian-labs/lx-obsidian-portal) | [README](https://github.com/lx-obsidian-labs/lx-obsidian-portal/blob/master/README.md), [operations runbook](https://github.com/lx-obsidian-labs/lx-obsidian-portal/blob/master/docs/OPERATIONS_RUNBOOK.md) | [CI passed at reviewed SHA](CI_EVIDENCE_2026-11-07.md); live lead persistence and notification delivery pending |
+| [Revona CLI](https://github.com/lx-obsidian-labs/revona-cli) | [README](https://github.com/lx-obsidian-labs/revona-cli/blob/main/README.md), [security model](https://github.com/lx-obsidian-labs/revona-cli/blob/main/docs/SECURITY_MODEL.md), [verification runbook](https://github.com/lx-obsidian-labs/revona-cli/blob/main/docs/VERIFICATION_RUNBOOK.md) | [CI passed at reviewed SHA](CI_EVIDENCE_2026-11-07.md); command and filesystem security pending |
 | [LX Obsidian CLI](https://github.com/lx-obsidian-labs/lx-obsidian-cli) | [README](https://github.com/lx-obsidian-labs/lx-obsidian-cli/blob/main/README.md) | Upstream comparison and attributable contributions |
-| [Edu Learn](https://github.com/lx-obsidian-labs/e-learning-platform) | [README](https://github.com/lx-obsidian-labs/e-learning-platform/blob/master/README.md), [verification guide](https://github.com/lx-obsidian-labs/e-learning-platform/blob/master/DOCUMENTATION_VERIFICATION.md) | Feature claim audit, tests, live deployment |
-| [Crankified's Beauty Bar](https://github.com/lx-obsidian-labs/crankifieds-beauty-bar) | [README](https://github.com/lx-obsidian-labs/crankifieds-beauty-bar/blob/master/README.md), [case study](https://github.com/lx-obsidian-labs/crankifieds-beauty-bar/blob/master/docs/ENGINEERING_CASE_STUDY.md), [operations runbook](https://github.com/lx-obsidian-labs/crankifieds-beauty-bar/blob/master/docs/OPERATIONS_RUNBOOK.md) | Session runtime tests, database concurrency and live authentication |
-| [MMS Platform](https://github.com/lx-obsidian-labs/mms-platform) | [README](https://github.com/lx-obsidian-labs/mms-platform/blob/master/README.md) | Build, Supabase authorization and workflow verification |
-| [SA Innovation College](https://github.com/lx-obsidian-labs/sa-innovation-college) | [README](https://github.com/lx-obsidian-labs/sa-innovation-college/blob/master/README.md) | Build, email/PDF functionality, client approval and accessibility |
+| [Edu Learn](https://github.com/lx-obsidian-labs/e-learning-platform) | [README](https://github.com/lx-obsidian-labs/e-learning-platform/blob/master/README.md), [verification guide](https://github.com/lx-obsidian-labs/e-learning-platform/blob/master/DOCUMENTATION_VERIFICATION.md) | [CI dependency-install failure](CI_EVIDENCE_2026-11-07.md); feature claims and deployment pending |
+| [Crankified's Beauty Bar](https://github.com/lx-obsidian-labs/crankifieds-beauty-bar) | [README](https://github.com/lx-obsidian-labs/crankifieds-beauty-bar/blob/master/README.md), [case study](https://github.com/lx-obsidian-labs/crankifieds-beauty-bar/blob/master/docs/ENGINEERING_CASE_STUDY.md), [operations runbook](https://github.com/lx-obsidian-labs/crankifieds-beauty-bar/blob/master/docs/OPERATIONS_RUNBOOK.md) | [CI TypeScript failure recorded](CI_EVIDENCE_2026-11-07.md); subsequent fix requires verification; database concurrency and live authentication pending |
+| [MMS Platform](https://github.com/lx-obsidian-labs/mms-platform) | [README](https://github.com/lx-obsidian-labs/mms-platform/blob/master/README.md) | [CI passed at reviewed SHA](CI_EVIDENCE_2026-11-07.md); Supabase authorization and workflows pending |
+| [SA Innovation College](https://github.com/lx-obsidian-labs/sa-innovation-college) | [README](https://github.com/lx-obsidian-labs/sa-innovation-college/blob/master/README.md), [verification matrix](https://github.com/lx-obsidian-labs/sa-innovation-college/blob/master/docs/VERIFICATION_MATRIX.md) | Build, email/PDF functionality, client approval and accessibility |
 | [LX Obsidian](https://github.com/lx-obsidian-labs/lx-obsidian) | [README](https://github.com/lx-obsidian-labs/lx-obsidian/blob/main/README.md) | Cross-framework detector and installation tests |
 | [Brand assets](https://github.com/lx-obsidian-labs/brand-assets) | [README](https://github.com/lx-obsidian-labs/brand-assets/blob/main/README.md) | Upload approved raster exports; confirm asset inventory |
 
@@ -38,8 +38,8 @@ This index provides a single entry point for company engineering documentation. 
 
 | Project | Documentation | Verification focus |
 | --- | --- | --- |
-| [Nexus AI](https://github.com/lx-obsidian-labs/nexus-ai) | [README](https://github.com/lx-obsidian-labs/nexus-ai/blob/main/README.md) | Supabase permissions, implemented AI scope, build and lint |
-| [EC Tech Hub](https://github.com/lx-obsidian-labs/ec-tech-hub) | [README](https://github.com/lx-obsidian-labs/ec-tech-hub/blob/master/README.md) | Community workflows, Supabase permissions, build and lint |
+| [Nexus AI](https://github.com/lx-obsidian-labs/nexus-ai) | [README](https://github.com/lx-obsidian-labs/nexus-ai/blob/main/README.md), [verification guide](https://github.com/lx-obsidian-labs/nexus-ai/blob/main/DOCUMENTATION_VERIFICATION.md) | Supabase permissions, implemented AI scope, build and lint |
+| [EC Tech Hub](https://github.com/lx-obsidian-labs/ec-tech-hub) | [README](https://github.com/lx-obsidian-labs/ec-tech-hub/blob/master/README.md), [verification guide](https://github.com/lx-obsidian-labs/ec-tech-hub/blob/master/DOCUMENTATION_VERIFICATION.md) | Community workflows, Supabase permissions, build and lint |
 | [Synapse Social](https://github.com/lx-obsidian-labs/synapse-social) | [README](https://github.com/lx-obsidian-labs/synapse-social/blob/main/README.md) | Browser extension permissions, platform compliance, monorepo tests |
 | [Hookd](https://github.com/lx-obsidian-labs/hookd) | [README](https://github.com/lx-obsidian-labs/hookd/blob/master/README.md) | Nested web application tests and agent skill boundaries |
 | [All Things Store](https://github.com/lx-obsidian-labs/all-things-store) | [README](https://github.com/lx-obsidian-labs/all-things-store/blob/main/README.md) | Checkout, supplier integration and webhook authorization |
@@ -51,6 +51,13 @@ This index provides a single entry point for company engineering documentation. 
 | [Incognito Party](https://github.com/lx-obsidian-labs/incognito-party) | [README](https://github.com/lx-obsidian-labs/incognito-party/blob/main/README.md) | Anonymous social PWA; public source and privacy/release gates |
 | [Mining education website](https://github.com/lx-obsidian-labs/lxobsidianportal) | [README](https://github.com/lx-obsidian-labs/lxobsidianportal/blob/master/README.md) | Separate static education site, not canonical company portal |
 | [God's Clay Media](https://github.com/lx-obsidian-labs/gods-clay-media) | [README](https://github.com/lx-obsidian-labs/gods-clay-media/blob/main/README.md) | Campaign artwork, licensing and provenance |
+
+## Additional reviewed websites
+
+| Project | Documentation | Review focus |
+| --- | --- | --- |
+| [Newton's 4th Training Academy](https://github.com/lx-obsidian-labs/newtons-4th-training-academy) | [README](https://github.com/lx-obsidian-labs/newtons-4th-training-academy/blob/master/README.md), [verification guide](https://github.com/lx-obsidian-labs/newtons-4th-training-academy/blob/master/DOCUMENTATION_VERIFICATION.md) | Course content, accessibility and publication permission |
+| [Alternative LX Obsidian Labs Website](https://github.com/lx-obsidian-labs/lx-obsidian-labs-website) | [README](https://github.com/lx-obsidian-labs/lx-obsidian-labs-website/blob/master/README.md), [verification guide](https://github.com/lx-obsidian-labs/lx-obsidian-labs-website/blob/master/DOCUMENTATION_VERIFICATION.md) | Canonical domain, leads, AI disclosures and Prisma |
 
 ## Publication and verification rules
 
