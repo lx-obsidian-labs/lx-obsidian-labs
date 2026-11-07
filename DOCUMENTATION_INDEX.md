@@ -8,6 +8,7 @@ This index provides a single entry point for company engineering documentation. 
 
 | Document | Purpose |
 | --- | --- |
+| [Documentation quality standard](DOCUMENTATION_QUALITY_STANDARD.md) | Weighted 9/10 rubric, minimum README contract and verification gates |
 | [Profile](README.md) | Curated introduction, project navigation and contact |
 | [Repository audit](REPOSITORY_AUDIT_2026.md) | Thirty-repository inventory, risks and phased remediation |
 | [Evaluation standard](PORTFOLIO_EVALUATION.md) | Evidence-based engineering scoring and maturity definitions |
@@ -40,6 +41,14 @@ This index provides a single entry point for company engineering documentation. 
 | [Synapse Social](https://github.com/lx-obsidian-labs/synapse-social) | [README](https://github.com/lx-obsidian-labs/synapse-social/blob/main/README.md) | Browser extension permissions, platform compliance, monorepo tests |
 | [Hookd](https://github.com/lx-obsidian-labs/hookd) | [README](https://github.com/lx-obsidian-labs/hookd/blob/master/README.md) | Nested web application tests and agent skill boundaries |
 | [All Things Store](https://github.com/lx-obsidian-labs/all-things-store) | [README](https://github.com/lx-obsidian-labs/all-things-store/blob/main/README.md) | Checkout, supplier integration and webhook authorization |
+
+## Additional project and asset documentation
+
+| Repository | Documentation | Scope |
+| --- | --- | --- |
+| [Incognito Party](https://github.com/lx-obsidian-labs/incognito-party) | [README](https://github.com/lx-obsidian-labs/incognito-party/blob/main/README.md) | Anonymous social PWA; public source and privacy/release gates |
+| [Mining education website](https://github.com/lx-obsidian-labs/lxobsidianportal) | [README](https://github.com/lx-obsidian-labs/lxobsidianportal/blob/master/README.md) | Separate static education site, not canonical company portal |
+| [God's Clay Media](https://github.com/lx-obsidian-labs/gods-clay-media) | [README](https://github.com/lx-obsidian-labs/gods-clay-media/blob/main/README.md) | Campaign artwork, licensing and provenance |
 
 ## Publication and verification rules
 
