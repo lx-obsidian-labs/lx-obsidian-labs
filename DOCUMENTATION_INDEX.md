@@ -8,6 +8,7 @@ This index provides a single entry point for company engineering documentation. 
 
 | Document | Purpose |
 | --- | --- |
+| [Case study template](CASE_STUDY_TEMPLATE.md) | Architecture, decisions, verification, outcomes and attribution |
 | [Documentation quality standard](DOCUMENTATION_QUALITY_STANDARD.md) | Weighted 9/10 rubric, minimum README contract and verification gates |
 | [Profile](README.md) | Curated introduction, project navigation and contact |
 | [Repository audit](REPOSITORY_AUDIT_2026.md) | Thirty-repository inventory, risks and phased remediation |
@@ -25,7 +26,7 @@ This index provides a single entry point for company engineering documentation. 
 | [LX Obsidian Portal](https://github.com/lx-obsidian-labs/lx-obsidian-portal) | [README](https://github.com/lx-obsidian-labs/lx-obsidian-portal/blob/master/README.md) | CI, live lead persistence and notification delivery |
 | [Revona CLI](https://github.com/lx-obsidian-labs/revona-cli) | [README](https://github.com/lx-obsidian-labs/revona-cli/blob/main/README.md), [security model](https://github.com/lx-obsidian-labs/revona-cli/blob/main/docs/SECURITY_MODEL.md) | Default-branch CI, command and filesystem security |
 | [LX Obsidian CLI](https://github.com/lx-obsidian-labs/lx-obsidian-cli) | [README](https://github.com/lx-obsidian-labs/lx-obsidian-cli/blob/main/README.md) | Upstream comparison and attributable contributions |
-| [Edu Learn](https://github.com/lx-obsidian-labs/e-learning-platform) | [README](https://github.com/lx-obsidian-labs/e-learning-platform/blob/master/README.md) | Feature claim audit, tests, live deployment |
+| [Edu Learn](https://github.com/lx-obsidian-labs/e-learning-platform) | [README](https://github.com/lx-obsidian-labs/e-learning-platform/blob/master/README.md), [verification guide](https://github.com/lx-obsidian-labs/e-learning-platform/blob/master/DOCUMENTATION_VERIFICATION.md) | Feature claim audit, tests, live deployment |
 | [Crankified's Beauty Bar](https://github.com/lx-obsidian-labs/crankifieds-beauty-bar) | [README](https://github.com/lx-obsidian-labs/crankifieds-beauty-bar/blob/master/README.md), [case study](https://github.com/lx-obsidian-labs/crankifieds-beauty-bar/blob/master/docs/ENGINEERING_CASE_STUDY.md) | Session runtime tests, database concurrency and live authentication |
 | [MMS Platform](https://github.com/lx-obsidian-labs/mms-platform) | [README](https://github.com/lx-obsidian-labs/mms-platform/blob/master/README.md) | Build, Supabase authorization and workflow verification |
 | [SA Innovation College](https://github.com/lx-obsidian-labs/sa-innovation-college) | [README](https://github.com/lx-obsidian-labs/sa-innovation-college/blob/master/README.md) | Build, email/PDF functionality, client approval and accessibility |
