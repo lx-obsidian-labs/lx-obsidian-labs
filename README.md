@@ -8,6 +8,8 @@ I design and develop digital products and business software through **LX Obsidia
 
 [Company website](https://www.lxobsidianportal.co.za) · [Email](mailto:vilanenathan@gmail.com) · [GitHub repositories](https://github.com/lx-obsidian-labs?tab=repositories)
 
+**[Documentation hub](DOCUMENTATION_INDEX.md)** · [Repository audit](REPOSITORY_AUDIT_2026.md) · [Contribution guidelines](CONTRIBUTING.md)
+
 ## Start here — selected engineering work
 
 | Project | Focus | Where to start |
